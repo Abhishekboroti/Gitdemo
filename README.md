@@ -1,2 +1,2 @@
 # Gitdemo
-this is redme file for readme file for repositry
+this is redme file for repositry
